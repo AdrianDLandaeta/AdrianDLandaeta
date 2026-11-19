@@ -56,7 +56,7 @@ Sou m=
     Title="icone REACT"
     width="30px" 
     style="padding-right:10px;"
-    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />" 
 />
 <img 
     Align="left"
