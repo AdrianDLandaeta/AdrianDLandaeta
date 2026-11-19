@@ -1,10 +1,11 @@
 # 👨🏻‍💻  Adrian D. Landaeta Chirinos 
-💻 Desenvolvedor Back-End | Técnico em Desenvolvimento de Sistemas
+💻 Desenvolvedor Full-Stack | Técnico em Desenvolvimento de Sistemas | Tecnólogo em Desenvolvimento Multiplataforma
 
 ## Quem sou eu
 
-Sou m=
+Sou desenvolvedor de software com foco em Back-End e Técnico em Desenvolvimento de Sistemas. Atualmente, estou em curso de uma formação superior em Desenvolvimento de Software Multiplataforma e busco aprimorar constantemente meus conhecimentos em programação, banco de dados e desenvolvimento de aplicações multiplataforma.
 
+Tenho interesse por tecnologia, hardware e desenvolvimento de soluções práticas, sempre buscando aprender, experimentar novas ferramentas e transformar ideias em projetos.
 
 ---
 
@@ -70,10 +71,3 @@ Sou m=
 <br>
 <br>
 
----
-### Estatísticas 
- 
- 
-<p align="center">
-  <img src="https://quickchart.io/chart?width=500&height=300&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SQL%22%2C%22C%23%22%2C%22JavaScript%22%2C%22Python%22%2C%22C%2B%2B%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C25%2C20%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%234CAF50%22%2C%22%2368217A%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" width="400"/>
-</p>
