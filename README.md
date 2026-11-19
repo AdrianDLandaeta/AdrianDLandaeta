@@ -52,11 +52,11 @@ Sou m=
 />
 <img 
     Align="left"
-    alt="icone Java Script"
-    Title="icone Java Script"
+    alt="icone REACT"
+    Title="icone REACT"
     width="30px" 
     style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />" 
 />
 <img 
     Align="left"
